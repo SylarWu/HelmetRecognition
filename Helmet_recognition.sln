@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Helmet_recognition", "Helmet_recognition\Helmet_recognition.vcxproj", "{EAEF9918-6262-4AC7-AFC4-2004B1A546C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEF9918-6262-4AC7-AFC4-2004B1A546C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAEF9918-6262-4AC7-AFC4-2004B1A546C1}.Debug|Win32.Build.0 = Debug|Win32
+		{EAEF9918-6262-4AC7-AFC4-2004B1A546C1}.Release|Win32.ActiveCfg = Release|Win32
+		{EAEF9918-6262-4AC7-AFC4-2004B1A546C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

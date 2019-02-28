@@ -1,0 +1,12 @@
+﻿  Detector.cpp
+Detector.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+Detector.cpp(53): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Detector.cpp(116): warning C4018: '<' : signed/unsigned mismatch
+Detector.cpp(162): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+Detector.cpp(163): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+Detector.cpp(171): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+Detector.cpp(172): warning C4244: '+=' : conversion from 'float' to 'long', possible loss of data
+  Generating code
+  Finished generating code
+LINK : warning LNK4199: /DELAYLOAD:opdncv_imgproc2410.dll ignored; no imports found from opdncv_imgproc2410.dll
+  Helmet_recognition.vcxproj -> F:\CODE\Helmet_recognition\Helmet_recognition\Release\Helmet_recognition.exe
